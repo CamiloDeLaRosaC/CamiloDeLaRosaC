@@ -53,10 +53,3 @@ Aquí están las tecnologías con las que trabajo en mi día a día:
 * 🇺🇸 **Inglés:** Avanzado
 
 ---
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
-</div>
