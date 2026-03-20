@@ -9,7 +9,7 @@ aprendizaje constante e integración con mis equipos de trabajo.</h3>
 ---
 
 
-* 📫 Cómo contactarme: **[www.linkedin.com/in/camilo-de-la-rosa]**
+* 📫 Cómo contactarme: **www.linkedin.com/in/camilo-de-la-rosa**
 
 ---
 
