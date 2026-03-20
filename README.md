@@ -4,7 +4,6 @@
 desarrollo de soluciones tecnológicas innovadoras y de calidad con el uso de metodologías ágiles. Me destaco por mi disposición al
 aprendizaje constante e integración con mis equipos de trabajo.</h3>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Transformando+ideas+en+código;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </div>
 
 ---
