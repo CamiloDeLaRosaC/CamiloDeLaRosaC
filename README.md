@@ -4,6 +4,7 @@ Hi, I'm Camilo De la Rosa 👋
 Full Stack Developer · Systems & Computer Engineering Student
 Based in Barranquilla, Colombia · Open to junior software development opportunities
 I build web applications and care about the code behind them: clear logic, maintainability, and reliable behavior.
+
 <a href="https://www.linkedin.com/in/camilo-de-la-rosa/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-2563EB?style=for-the-badge" alt="Connect on LinkedIn"></a>
 </div>
 
